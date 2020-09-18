@@ -1,6 +1,7 @@
 1. Selitski Danil.
 2. My сontact info: 
   * **VK:** [Selitski Danil](https://vk.com/id228950192)
+  * **Gmail:** [sdanilev@gmail.com](https://mailto:sdanilev@gmail.com)
   * **Phone:** +375(25)603-44-71
 3. At the moment I am studying programming at BSTU at the Faculty of IT for the 3rd year.
 I am looking for a position as a front-end(js) developer now.
